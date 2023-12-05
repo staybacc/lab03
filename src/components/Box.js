@@ -1,6 +1,6 @@
 
 
-export default function Boxes(props) {
+export default function Box(props) {
     const name = props.name
     const price = props.price
     const producer = props.producer
